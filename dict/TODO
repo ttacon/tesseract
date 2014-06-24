@@ -7,4 +7,4 @@ hyphen      : TODO
 matchdefs   : TODO
 permdawg    : TODO
 stopper     : TODO
-trie        : TODO
+trie        : IMPLEMENTED (check who uses)
